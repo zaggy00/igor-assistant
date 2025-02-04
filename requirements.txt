@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+redis
+requests
+pytest
+httpx
+faiss-cpu
+numpy
+websockets
+pydantic
