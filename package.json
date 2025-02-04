@@ -1,0 +1,21 @@
+{
+  "name": "igor-ui",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.14.0",
+    "@headlessui/react": "^1.7.7",
+    "@radix-ui/react-icons": "^1.0.3"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9",
+    "@vitejs/plugin-react": "^4.1.0"
+  }
+}
